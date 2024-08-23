@@ -1,5 +1,5 @@
 ## Soundtrack Your Motion: Enhancing Rhythmic Soundtrack Generation with Adaptive Retrieval Reference
-Jinting Wang, Li Liu, Jun Wang
+Author: Jinting Wang, Li Liu, Jun Wang
 
 Organization: HKUST-GZ, Tencent
 
