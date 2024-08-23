@@ -28,6 +28,19 @@ Given an human motion video, our goal is to compose music piece that matches the
     <td width=33% style="border: none">
         <video controls autoplay loop src="./examples/video_refine_generated_gMH_sFM_c08_d22_mMH3_ch04.mp4" muted="false"></video>
     </td>
+</tr>
+<tr>
+    <td width=33% style="border: none">
+        <video controls autoplay loop src="./examples/video_refine_generated_gLO_sFM_c08_d15_mLO4_ch19.mp4" muted="false"></video>
+    </td>
+    <td width=33% style="border: none">
+        <video controls autoplay loop src="./examples/video_refine_generated_gPO_sFM_c05_d12_mPO5_ch21.mp4" muted="false"></video>
+    </td>
+    <td width=33% style="border: none">
+        <video controls autoplay loop src="./examples/video_refine_generated_gMH_sFM_c04_d23_mMH0_ch14.mp4" muted="false"></video>
+    </td>
+</tr>
+
 
 </table>
 
