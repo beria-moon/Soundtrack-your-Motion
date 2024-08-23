@@ -19,13 +19,5 @@ Given an human motion video, our goal is to compose music piece that matches the
     </td>
 </tr>
 
-<tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/9e516cc5-bf09-4d45-b5e3-820030764982" muted="false"></video>
-    </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/7c68148b-8022-453f-be9a-c69590038197" muted="false"></video>
-    </td>
-</tr>
 </table>
 
