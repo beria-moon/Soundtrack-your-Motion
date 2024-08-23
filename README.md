@@ -8,11 +8,14 @@ Given an human motion video, our goal is to compose music piece that matches the
 ## Various Generated Samples
 <table class="center">
 <tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/63171e5a-e4c1-4383-8f20-9764524928d0" muted="false"></video>
+    <td width=33% style="border: none">
+        <video controls autoplay loop src=".examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15.mp4" muted="false"></video>
     </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/6fd74024-ba19-4f6b-b37a-10df5cf2c934" muted="false"></video>
+    <td width=33% style="border: none">
+        <video controls autoplay loop src=".examples/video_refine_generated_gPO_sFM_c09_d11_mPO5_ch13.mp4" muted="false"></video>
+    </td>
+    <td width=33% style="border: none">
+        <video controls autoplay loop src=".examples/video_refine_generated_gBR_sFM_c01_d05_mBR3_ch10.mp4" muted="false"></video>
     </td>
 </tr>
 
