@@ -14,7 +14,7 @@ Given an human motion video, our goal is to compose music piece that matches the
 <table class="center">
 <tr>
     <td width=30% style="border: none">
-        <video controls loop src="https://drive.google.com/file/d/1Nj8Y0sHSiTMevNDxsNLaG_O0RSXWytwd/view" ></video>
+        <video controls loop src="examples/" ></video>
     </td>
     <td width=30% style="border: none">
         <video controls loop src="examples/video_refine_generated_gPO_sFM_c09_d11_mPO5_ch13.mp4" ></video>
