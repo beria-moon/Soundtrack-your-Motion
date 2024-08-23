@@ -9,15 +9,14 @@ Given an human motion video, our goal is to compose music piece that matches the
 	<img src="pipeline.png" width="500">
 
 ## 2.Various Generated Samples
-<table class="center">
-<tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15" muted="false"></video>
-    </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15" muted="false"></video>
-    </td>
-</tr>
-</table>
+
+<div class="row">
+<video id="video" controls="" preload="none" width="500">
+      <source id="mp4" src="asset/cxk.mp4" type="video/mp4">
+</video>
+<video id="video" controls="" preload="none" width="500">
+      <source id="mp4" src="asset/solo.mp4" type="video/mp4">
+</video>
+</div>
 
 
