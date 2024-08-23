@@ -1,51 +1,30 @@
 ## Soundtrack Your Motion: Enhancing Rhythmic Soundtrack Generation with Adaptive Retrieval Reference
 Jinting Wang, Li Liu, Jun Wang
+Organization: HKUST-GZ, Tencent
 ## 1. Project Overview
 Given an human motion video, our goal is to compose music piece that matches the motion rhythm and style. In order to achieve this goal, we propose a novel easy-to-hard framework with retrieval-augmented technique for video soundtrack generation. 
 <p align="center">
 	<img src="pipeline.png" width="500">
 
 ## 2.Various Generated Samples
-<video controls autoplay loop width="320">
-    <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/63171e5a-e4c1-4383-8f20-9764524928d0" muted="false"></video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/6fd74024-ba19-4f6b-b37a-10df5cf2c934" muted="false"></video>
+    </td>
+</tr>
 
-<div style="text-align: center;">
-    <table class="center">
-        <tr>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="https://github.com/beria-moon/Soundtrack-your-Motion/examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15.mp4" muted></video>
-            </td>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="./examples/video_refine_generated_gPO_sFM_c09_d11_mPO5_ch13.mp4" muted></video>
-            </td>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="./examples/video_refine_generated_gBR_sFM_c01_d05_mBR3_ch10.mp4" muted></video>
-            </td>
-        </tr>
-        <tr>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="./examples/video_refine_generated_gLH_sFM_c06_d17_mLH4_ch12.mp4" muted></video>
-            </td>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="./examples/video_refine_generated_gMH_sFM_c04_d22_mMH5_ch06.mp4" muted></video>
-            </td>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="./examples/video_refine_generated_gMH_sFM_c08_d22_mMH3_ch04.mp4" muted></video>
-            </td>
-        </tr>
-        <tr>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="./examples/video_refine_generated_gLO_sFM_c08_d15_mLO4_ch19.mp4" muted></video>
-            </td>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="./examples/video_refine_generated_gPO_sFM_c05_d12_mPO5_ch21.mp4" muted></video>
-            </td>
-            <td width="33%" style="border: none">
-                <video controls autoplay loop src="./examples/video_refine_generated_gMH_sFM_c04_d23_mMH0_ch14.mp4" muted></video>
-            </td>
-        </tr>
-    </table>
-</div>
+<tr>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/9e516cc5-bf09-4d45-b5e3-820030764982" muted="false"></video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/7c68148b-8022-453f-be9a-c69590038197" muted="false"></video>
+    </td>
+</tr>
+</table>
+
 
