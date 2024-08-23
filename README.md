@@ -15,7 +15,7 @@ Given an human motion video, our goal is to compose music piece that matches the
     <div class="hero-body">
       <video poster="" id="tree" autoplay controls muted loop height="100%">
         <!-- Your video here -->
-        <source src="examples/"
+        <source src="examples/video_refine_generated_gMH_sFM_c04_d23_mMH0_ch14.mp4"
         type="video/mp4">
       </video>
       </h2>
