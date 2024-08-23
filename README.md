@@ -12,7 +12,7 @@ Given an human motion video, our goal is to compose music piece that matches the
 <table class="center">
 <tr>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/beria-moon/Soundtrack-your-Motion/blob/e4b8bc76729eea0baf9f73bb1824d01f4bc36e7b" muted="false"></video>
+        <video controls autoplay loop src="examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15.mp4" muted="false"></video>
     </td>
     <td width=50% style="border: none">
         <video controls autoplay loop src="examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15.mp4" muted="false"></video>
