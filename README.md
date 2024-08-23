@@ -6,9 +6,6 @@ Given an human motion video, our goal is to compose music piece that matches the
 	<img src="pipeline.png" width="400">
 
 ## 2.Various Generated Samples
-<td width=33% style="border: none">
-        <video controls autoplay loop src="./examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15.mp4" muted="false"></video>
-</td>
 <table class="center">
 <tr>
     <td width=33% style="border: none">
