@@ -20,13 +20,13 @@ Given an human motion video, our goal is to compose music piece that matches the
 </tr>
 <tr>
     <td width=33% style="border: none">
-        <video controls autoplay loop src="./examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15.mp4" muted="false"></video>
+        <video controls autoplay loop src="./examples/video_refine_generated_gLH_sFM_c06_d17_mLH4_ch12.mp4" muted="false"></video>
     </td>
     <td width=33% style="border: none">
-        <video controls autoplay loop src="./examples/video_refine_generated_gPO_sFM_c09_d11_mPO5_ch13.mp4" muted="false"></video>
+        <video controls autoplay loop src="./examples/video_refine_generated_gMH_sFM_c04_d22_mMH5_ch06.mp4" muted="false"></video>
     </td>
     <td width=33% style="border: none">
-        <video controls autoplay loop src="./examples/video_refine_generated_gBR_sFM_c01_d05_mBR3_ch10.mp4" muted="false"></video>
+        <video controls autoplay loop src="./examples/video_refine_generated_gMH_sFM_c08_d22_mMH3_ch04.mp4" muted="false"></video>
     </td>
 
 </table>
