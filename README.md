@@ -5,7 +5,7 @@ Given an human motion video, our goal is to compose music piece that matches the
 <p align="center">
 	<img src="pipeline.png" width="400">
 
-## Various Generated Samples
+## 2.Various Generated Samples
 <table class="center">
 <tr>
     <td width=33% style="border: none">
