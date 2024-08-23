@@ -6,6 +6,15 @@ Given an human motion video, our goal is to compose music piece that matches the
 	<img src="pipeline.png" width="500">
 
 ## 2.Various Generated Samples
+
+</table>
+<p align="center">
+		<iframe width="330" height="200" src="https://github.com/beria-moon/Soundtrack-your-Motion/examples/video_refine_generated_gWA_sFM_c08_d27_mWA0_ch15.mp4" frameborder="0" volume=0.2 allow="autoplay; encrypted-media" allowfullscreen align="center"></iframe>
+		<iframe width="330" height="200" src="./examples/video_refine_generated_gPO_sFM_c09_d11_mPO5_ch13.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen align="center"></iframe>
+	</p>
+	<br>
+	</table>
+	<br>
 <table class="center">
 <tr>
     <td width=33% style="border: none">
