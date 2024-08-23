@@ -6,6 +6,10 @@ Given an human motion video, our goal is to compose music piece that matches the
 	<img src="pipeline.png" width="500">
 
 ## 2.Various Generated Samples
+<video controls autoplay loop width="320">
+    <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 <div style="text-align: center;">
     <table class="center">
