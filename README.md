@@ -6,9 +6,7 @@
 ## 1. Project Overview
 Given a human motion video, our goal is to compose a music piece that matches the motion rhythm and style. To achieve this goal, we propose a novel easy-to-hard framework with a retrieval-augmented technique for video soundtrack generation.
 
-<p align="center">
-    <img src="pipeline.png" width="500" alt="Project Pipeline">
-</p>
+
 
 ## 2. Various Generated Samples
 
